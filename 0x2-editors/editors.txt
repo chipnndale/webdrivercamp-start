@@ -1,0 +1,15 @@
+Emacs
+0 - answer to question 0 - Ctrl + X and Cntrl + f then /path/ to file and name.txt
+1 - answer to qustion 1 - Ctrl + x then Ctrl + s
+2 - answer to question 2 - Ctrl + a then Ctrl + k
+3 - answer to question 3 - Ctrl + y
+5 - answer to question 5 - Ctrl + /
+6 - answer to question 6 - Ctrl + x then Ctrl + c
+Vi
+7 - answer to question 7 - before i after a
+8 - answer to question 8 - dd
+10 - answer to question 10 - u
+11 - answer to question 11 - :q!
+12 - answer to question 12 - 0
+13 - answer to question 13 - $
+Irregular order of questions. Missing numbers 4 and 9.
